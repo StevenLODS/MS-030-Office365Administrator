@@ -130,9 +130,9 @@ You will then open a second InPrivate browsing session and log in as Patti Ferna
 
 20. This opens the **Microsoft Office Home** tab in your InPrivate browsing session. Open a new tab in your browser and enter the following URL in the address bar: **https://M365xZZZZZZ.sharepoint.com/sites/Marketing** (where ZZZZZZ is the tenant ID provided by your lab hosting provider).
 
-21. This opens the **Marketing** site collection. In the upper-right corner of the screen (to the left of Patti's picture), select the **gear (Settings)** icon (the wheel icon). In the **Settings** window that appears, select **Site settings**.
+21. This opens the **Marketing** site collection. In the upper-right corner of the screen (to the left of Patti's picture), select the **gear (Settings)** icon (the wheel icon). In the **Settings** window that appears, select **Site permissions**.
 
-22. On the **Site Settings** page, under the **Users and Permissions** group, select **Site collection administrators**.
+22. On the **Site permissions** page, under the **Advanced permissions setings** group, select **Site collection administrators**.
 
 23. Verify that **MOD Administrator** and **Patti Fernandez** appear in field. You have just verified that Patti is indeed a site administrator for the Marketing site, since she can access the Site Collection Administrators page (only site admins can access this page).
 
@@ -176,9 +176,9 @@ In this task, the MOD Administrator will assign access to the Marketing site to 
 
 15. This opens the **Microsoft Office Home** tab in your InPrivate browsing session. Open a new tab in your browser and enter the following URL in the address bar: **https://M365xZZZZZZ.sharepoint.com/sites/Marketing**.
 
-16. This opens the **Marketing** site. In the upper-right corner of the screen (to the left of the circle with the **MA** initials), select the **gear (Settings)** icon (the wheel icon). In the **Settings** window that appears, select **Site settings**.
+16. This opens the **Marketing** site. In the upper-right corner of the screen (to the left of the circle with the **MA** initials), select the **gear (Settings)** icon (the wheel icon). In the **Settings** window that appears, select **Site contents**.
 
-17. On the **Site Settings** page, under the **Users and Permissions** group, select **Access requests and invitations**.
+17. On the **Site contents** page, select **Access requests**.
 
 18. On the **Access Requests** page, verify that Joni Sherman's request appears under the **Pending Requests** section. For Joni's request, select the **Approve** button.
 
